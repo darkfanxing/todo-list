@@ -1,5 +1,7 @@
 # todolist
+A basic web practice about todo-list
 
+# Usuage
 ## Project setup
 ```
 npm install
